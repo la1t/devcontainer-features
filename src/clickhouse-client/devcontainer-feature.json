@@ -1,0 +1,6 @@
+{
+    "id": "clickhouse-client",
+    "name": "Clickhouse client",
+    "version": "0.1.0",
+    "description": "Install latest version of Clickhouse client"
+}
