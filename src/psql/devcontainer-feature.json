@@ -1,0 +1,6 @@
+{
+    "id": "psql",
+    "name": "PostgreSQL client",
+    "version": "0.1.0",
+    "description": "Install latest version of PostgreSQL client"
+}
