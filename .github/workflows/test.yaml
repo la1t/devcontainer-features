@@ -14,6 +14,7 @@ jobs:
       matrix:
         features:
           - minio-client
+          - psql
         baseImage:
           - mcr.microsoft.com/devcontainers/base:ubuntu
     steps:
