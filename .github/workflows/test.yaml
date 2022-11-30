@@ -15,6 +15,7 @@ jobs:
         features:
           - color
           - hello
+          - minio-client
         baseImage:
           - debian:latest
           - ubuntu:latest

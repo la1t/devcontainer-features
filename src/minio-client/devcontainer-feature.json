@@ -1,0 +1,6 @@
+{
+    "id": "minio-client",
+    "name": "Minio client",
+    "version": "0.0.1",
+    "description": "Install latest version of Minio Client (mc)"
+}
